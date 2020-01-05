@@ -1,6 +1,6 @@
-## Cybersecurity Enthusiashhh
+## T. Dixon
 
-Yes, I’m a cybersecurity enthusiast, and I enjoy learning about the field.
+I’m a cybersecurity enthusiast, and I enjoy learning about the field.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
