@@ -11,9 +11,16 @@ I hold a master’s degree in Management Information Systems with a concentratio
 
 I am no expert; however, I’ve had hands-on experience in the following areas:
 
-#### Programming/Markup Languages:  
-*HTLM 
-*CSS 
-*Java
+##### Operating Systems:  
+* Linux (Ubuntu, Kali Linux)
+* Windows, Microsoft Server 2019
+* Mac OS  
 
-#### 
+##### Programming/Markup Languages:  
+* HTLM 
+* CSS 
+* Java  
+
+
+
+
