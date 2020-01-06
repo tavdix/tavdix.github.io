@@ -9,7 +9,7 @@ I hold a master’s degree in Management Information Systems with a concentratio
 
 ### Knowledge/Skills
 
-I am no expert; however, I’ve had hands-on experience in the following areas:
+I am no expert; however, I’ve have hands-on experience and/or a good understaning of the following areas:
 
 ##### Operating Systems:  
 * Linux (Ubuntu, Kali Linux)
