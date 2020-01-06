@@ -7,6 +7,14 @@ I’m a cybersecurity enthusiast, and I enjoy learning about the field.
 
 I hold a master’s degree in Management Information Systems with a concentration on Information Assurance and Cybersecurity Management.
 
+### Knowledge/Skills
+
+I am no expert; however, I’ve had hands-on experience in the following areas:
+
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
