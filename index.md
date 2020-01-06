@@ -26,10 +26,10 @@ I am no expert; however, I’ve have hands-on experience and/or a good understan
 * IPV4/IPV6 addressing 
 * Common protocols (HTTPS, FTP, SSH, DNS, DHCP)
 * Windows, Linux/Unix command line tools  
- * ping
- * netstat
- * nslookup/dig
- * tracert/traceroute
+  * ping
+  * netstat
+  * nslookup/dig
+  * tracert/traceroute
     
 
 
