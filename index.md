@@ -13,7 +13,7 @@ I am no expert; however, I’ve have hands-on experience and/or a good understan
 
 ##### Operating Systems:  
 * Linux (Ubuntu, Kali Linux)
-* Windows, Microsoft Server 2019
+* Windows, Microsoft Server Software
 * Mac OS  
 
 ##### Virtualization
