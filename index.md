@@ -2,11 +2,10 @@
 
 I’m a cybersecurity enthusiast, and I enjoy learning about the field.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I hold a master’s degree in Management Information Systems with a concentration on Information Assurance and Cybersecurity Management.
 
 ```markdown
 Syntax highlighted code block
