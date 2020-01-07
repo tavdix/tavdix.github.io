@@ -12,24 +12,19 @@ I hold a master’s degree in Management Information Systems with a concentratio
 I am no expert; however, I’ve have hands-on experience and/or a good understaning of the following areas:
 
 ##### Operating Systems:  
-* Linux (Ubuntu, Kali Linux)
-* Windows OS, Windows Server Software
-* Mac OS  
+* Linux (Ubuntu, Kali Linux), Windows OS, Windows Server Software, Mac OS    
 
 ##### Virtualization
-* VirtualBox
-* Proxmox  
+* VirtualBox, Proxmox  
 
 ##### Programming/Markup Languages:  
-* HTLM 
-* CSS 
-* Java  
+* HTLM, CSS,Java  
 
 ##### Networking
 * TCP/IP, OSI models
 * IPV4/IPV6 addressing 
 * Common protocols (HTTPS, FTP, SSH, DNS, DHCP)
-* Windows, Linux/Unix command line tools (ping, netstat, nslookup/dig, tracert/traceroute) 
+* Windows, Linux/Unix command line tools (ipconfig, ifconfig, ping, netstat, nslookup/dig, tracert/traceroute) 
   
     
 
