@@ -18,7 +18,7 @@ I am no expert; however, I’ve have hands-on experience and/or a good understan
 * VirtualBox, Proxmox  
 
 ##### Programming/Markup Languages:  
-* HTLM, CSS,Java  
+* HTLM, CSS, Java  
 
 ##### Networking
 * TCP/IP, OSI models
