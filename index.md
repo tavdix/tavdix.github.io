@@ -28,5 +28,5 @@ I am no expert; however, I’ve have hands-on experience and/or a good understan
   
 ##### Vulnerability Management Tools
 * Nmap
-* Nesssus
+* Nessus
 
