@@ -12,7 +12,7 @@ I hold a master’s degree in Management Information Systems with a concentratio
 I am no expert; however, I’ve have hands-on experience and/or a good understaning of the following areas:
 
 ##### Operating Systems:  
-* Linux (Ubuntu, Kali Linux), Windows OS, Windows Server Software, Mac OS    
+* Linux (Ubuntu, Kali Linux, CentOS), Windows OS, Windows Server Software, Mac OS    
 
 ##### Virtualization
 * VirtualBox, Proxmox  
