@@ -26,7 +26,7 @@ I am no expert; however, I’ve have hands-on experience and/or a good understan
 * Common protocols (HTTPS, FTP, SSH, DNS, DHCP)
 * Windows, Linux/Unix command line tools (ip, ipconfig, ifconfig, ping, netstat, nslookup/dig, tracert/traceroute, nmcli) 
 * Network performance monitoring
-* Configuring static and dynamic address through NetworkManager and manually
+* Configuring static and dynamic addresses manually and through NetworkManager
 
 ##### Network Administration
 * Configuration of DHCP Server
